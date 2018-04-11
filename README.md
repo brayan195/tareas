@@ -61,7 +61,7 @@ investigacion administracion de memoria
 
 
 # GLOSARIO 
-##Carga 
+
 
 ## Carga absoluta 
 El proceso de carga absoluta consiste en que con la máquina vacía ó inactiva no hay necesidad de hacer relocalización de programas tan solo se puede especificar la dirección absoluta del programa que se cargue en primer lugar.
@@ -74,35 +74,44 @@ un mismo programa necesita ejecutarse en diferentes posiciones de memoria. Para 
 El proceso de compactación son unas instancias particulares del problema de asignación de memoria dinámica, y esta se  refiere a  satisfacer  una necesidad de tamaño (N) en una lista de huecos libres. Entre tantas posibilidades existe una que determina el hueco más indicado en el momento de asignar. A continuación estrategias  comunes para la asignación de algún hueco en la tabla.
 
 ## Comparticion 
-compartir recursos informáticos,
+Compartir recursos informáticos,
 
 ## Direccion fisica 
-es una dirección de memoria que se representa en forma de un número binario en la circuitería de bus de direcciones para permitir que el bus de datos acceda a una celda de almacenamiento particular de la red principal de memoria  
+Es una dirección de memoria que se representa en forma de un número binario en la circuitería de bus de direcciones para permitir que el bus de datos acceda a una celda de almacenamiento particular de la red principal de memoria  
 
 ## Direccion logica
+En forma genérica, una dirección lógica es una dirección que enmascara o abstrae una dirección física.
 
-## Direccion relativae
+## Direccion relativa
+Una dirección relativa es un identificador que indica la posición de una ubicación de memoria en una computadora relativa a la dirección base.
 
 ## Editor de enlaces
 
-## Enlazador  
+
+## Enlazado 
+Este proceso es realizado muchas veces directamente por el compilador y coloca las referencias externas (como a las DLL) de manera que funcionen directamente, como puede ser la situación de las funciones de manera numérica
 
 ## Fragmentacion externa
-
+En la memoria del sistema la fragmentación se produce cuando los procesos
+asignados han ocupado posiciones no contiguas de memoria dejando demasiados bloques
+libres de pequeño tamaño, en los que no "caben" nuevos procesos.
+ 
 ## Fragmentacion interna 
+La fragmentación interna es la pérdida de espacio en disco debido al hecho de que el tamaño de un determinado archivo sea inferior al tamaño del cluster, ya que teóricamente el archivo estaría obligado a ser referenciado como un cluster completo
 
 ## Gestion de memoria 
-
+La administración de memoria representa un vínculo delicado entre el rendimiento (tiempo de acceso) y la cantidad (espacio disponible). Siempre se busca obtener el mayor espacio disponible en la memoria, pero pocas veces existe la predisposición para comprometer el rendimiento. 
 
 ## Organizacion logica 
+La mayoría de las computadoras organizan los archivos en jerarquías llamadas carpetas, directorios o catálogos . (El concepto es el mismo independientemente de la terminología usada.) 
 
 
 ## Organizacion fisica 
-
+Los datos son arreglados por su adyacencia física, es decir, de acuerdo con el dispositivo de almacenamiento secundario. Los registros son de tamaño fijo o de tamaño variable y pueden organizarse de varias formas para constituir archivos físicos. 
 Pagina En los sistemas de memoria virtual, unidad de almacenamiento de datos que se lleva a la RAM, normalmente desde un disco duro, cuando un elemento solicitado de información no se encuentra allí.
 
 ## Particionamiento 
-
+Reparto o división de un todo en varias partes.
 
 ## Particionamiento dinamico:
 Cada estructura se coloca dinámicamente en memoria. En este esquema cada módulo se va intercalando en memoria conforme se requiere, ese es el concepto de cargador dinámico.
