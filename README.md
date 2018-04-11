@@ -5,7 +5,7 @@ Brayan Josue Reyes Salazar
    
    TICS'S 6to Semestre 
 
----------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## EXAMEN DIAGNOSTICO
 #### ¿QUE ES UN SISTEMA OPERATIVO?
 es el controlador del software de un dispositivo 
@@ -25,7 +25,7 @@ Que en la memoria fisica es donde se alojan los datos fisicamente, mientras en l
 es un leguaje el cual se utiliza para asegurar y esconder informacion.
 
 
------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## TEMARIO 
 
 | UNIDAD        |  TEMAS                                  | SUBTEMAS     |
@@ -40,7 +40,28 @@ es un leguaje el cual se utiliza para asegurar y esconder informacion.
 
 ------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------
-  <span style="color: green"> Some green text </span>
+  # DESCRIPCION DE TAREAS 
+  ### MAPA MENTAL
+  Es la descripcion de las partes fundamentales de una computadora 
+  
+  ## GUIA DE EXAMEN UNIDAD 1 
+  Es la guia perteneciente las cuales estan relacinadas con la primera unidad del temario con un total de 10 preguntas.
+
+ ## UNIDAD 2
+ ### PROGRAMAS EN C 
+ Se encuentran programas basicos en el leguaje c tales como:
+ - calculadora basica 
+ - array 
+ - hola mmundo 
+ ### programas en python
+ Aqui se mustran diversos programas, los cuales fueron sacados del libro aprende a progrmar python de Eugenia bahit 
+ 
+ ## UNIDAD 3 
+investigacion administracion de memoria 
+
+
+# GLOOSARIO 
+
 
 
 
