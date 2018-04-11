@@ -64,12 +64,20 @@ investigacion administracion de memoria
 ##Carga 
 
 ## Carga absoluta 
+El proceso de carga absoluta consiste en que con la máquina vacía ó inactiva no hay necesidad de hacer relocalización de programas tan solo se puede especificar la dirección absoluta del programa que se cargue en primer lugar.
+## carga en tiempo real dinamica 
+
+## carga reubicable 
+un mismo programa necesita ejecutarse en diferentes posiciones de memoria. Para esto la traducción debe estar realizada en forma adecuada, es decir, no utilizando referencias absolutas a direcciones de memoria, sino referencias relativas a una dirección especial llamada dirección de relocalización.
 
 ## Compactacion 
+El proceso de compactación son unas instancias particulares del problema de asignación de memoria dinámica, y esta se  refiere a  satisfacer  una necesidad de tamaño (N) en una lista de huecos libres. Entre tantas posibilidades existe una que determina el hueco más indicado en el momento de asignar. A continuación estrategias  comunes para la asignación de algún hueco en la tabla.
 
 ## Comparticion 
+compartir recursos informáticos,
 
 ## Direccion fisica 
+es una dirección de memoria que se representa en forma de un número binario en la circuitería de bus de direcciones para permitir que el bus de datos acceda a una celda de almacenamiento particular de la red principal de memoria  
 
 ## Direccion logica
 
@@ -97,6 +105,7 @@ Pagina En los sistemas de memoria virtual, unidad de almacenamiento de datos que
 
 
 ## Particionamiento dinamico:
+Cada estructura se coloca dinámicamente en memoria. En este esquema cada módulo se va intercalando en memoria conforme se requiere, ese es el concepto de cargador dinámico.
 
 
 ## Proteccion 
