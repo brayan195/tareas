@@ -61,6 +61,57 @@ investigacion administracion de memoria
 
 
 # GLOSARIO 
+##Carga 
+
+## Carga absoluta 
+
+## Compactacion 
+
+## Comparticion 
+
+## Direccion fisica 
+
+## Direccion logica
+
+## Direccion relativae
+
+## Editor de enlaces
+
+## Enlazador  
+
+## Fragmentacion externa
+
+## Fragmentacion interna 
+
+## Gestion de memoria 
+
+
+## Organizacion logica 
+
+
+## Organizacion fisica 
+
+Pagina En los sistemas de memoria virtual, unidad de almacenamiento de datos que se lleva a la RAM, normalmente desde un disco duro, cuando un elemento solicitado de información no se encuentra allí.
+
+## Particionamiento 
+
+
+## Particionamiento dinamico:
+
+
+## Proteccion 
+
+## Reubicacion 
+Define el traspaso de los datos relacionados, con un mismo objeto de un espacio a otro de memoria.
+
+## Segmentacion 
+Identifica las unidades lógicas de los programas y datos para facilitar el control de acceso y participación
+
+## RDIM: 
+Registro de direccion de memoria.
+
+## RDAM: 
+Registro de datos de memoria.
 
 
 
