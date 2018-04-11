@@ -60,7 +60,8 @@ es un leguaje el cual se utiliza para asegurar y esconder informacion.
 investigacion administracion de memoria 
 
 
-# GLOOSARIO 
+# GLOSARIO 
+
 
 
 
