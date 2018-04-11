@@ -25,8 +25,8 @@ es un leguaje el cual se utiliza para asegurar y esconder informacion.
 
 -----------------------------------------------------------------------------------------------------
 ## TEMARIO 
-| TITULO1| TITULO2|
 
-| ----- | ---- |
-
-| CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 |
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
