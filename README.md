@@ -5,7 +5,8 @@ Brayan Josue Reyes Salazar
    
    TICS'S 6to Semestre 
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## EXAMEN DIAGNOSTICO
 #### ¿QUE ES UN SISTEMA OPERATIVO?
 es el controlador del software de un dispositivo 
@@ -25,7 +26,8 @@ Que en la memoria fisica es donde se alojan los datos fisicamente, mientras en l
 es un leguaje el cual se utiliza para asegurar y esconder informacion.
 
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## TEMARIO 
 
 | UNIDAD        |  TEMAS                                  | SUBTEMAS     |
@@ -38,9 +40,10 @@ es un leguaje el cual se utiliza para asegurar y esconder informacion.
 |       6.      | Protección y seguridad.            |6.1 Concepto y objetivos de protección.6.2 Funciones del sistema de protección.6.3 Implantación de matrices de acceso.6.4 Protección basada en el lenguaje.6.5 Concepto de seguridad.6.6 Clasificaciones de la seguridad.6.7 Validación y amenazas al sistema.6.8 Cifrado.                |
 
 
-------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------
-  # DESCRIPCION DE TAREAS 
+-----------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
+ 
+ # DESCRIPCION DE TAREAS 
   ### MAPA MENTAL
   Es la descripcion de las partes fundamentales de una computadora 
   
@@ -59,9 +62,9 @@ es un leguaje el cual se utiliza para asegurar y esconder informacion.
  ## UNIDAD 3 
 investigacion administracion de memoria 
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # GLOSARIO 
-
 
 ## Carga absoluta 
 El proceso de carga absoluta consiste en que con la máquina vacía ó inactiva no hay necesidad de hacer relocalización de programas tan solo se puede especificar la dirección absoluta del programa que se cargue en primer lugar.
