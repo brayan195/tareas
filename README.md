@@ -7,7 +7,7 @@ Brayan Josue Reyes Salazar
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## EXAMEN DIAGNOSTICO
+# EXAMEN DIAGNOSTICO
 #### ¿QUE ES UN SISTEMA OPERATIVO?
 es el controlador del software de un dispositivo 
 #### ¿QUE SISTEMAS OPERATIVOS CONOCE?
@@ -28,7 +28,7 @@ es un leguaje el cual se utiliza para asegurar y esconder informacion.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## TEMARIO 
+# TEMARIO 
 
 | UNIDAD        |  TEMAS                                  | SUBTEMAS     |
 | ------------- | --------------------------------------- | ------------ |
@@ -47,10 +47,10 @@ es un leguaje el cual se utiliza para asegurar y esconder informacion.
   ### MAPA MENTAL
   Es la descripcion de las partes fundamentales de una computadora 
   
-  ## GUIA DE EXAMEN UNIDAD 1 
+  # GUIA DE EXAMEN UNIDAD 1 
   Es la guia perteneciente las cuales estan relacinadas con la primera unidad del temario con un total de 10 preguntas.
 
- ## UNIDAD 2
+ # UNIDAD 2
  ### PROGRAMAS EN C 
  Se encuentran programas basicos en el leguaje c tales como:
  - calculadora basica 
@@ -59,7 +59,7 @@ es un leguaje el cual se utiliza para asegurar y esconder informacion.
  ### programas en python
  Aqui se mustran diversos programas, los cuales fueron sacados del libro aprende a progrmar python de Eugenia bahit 
  
- ## UNIDAD 3 
+ # UNIDAD 3 
 investigacion administracion de memoria 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -134,6 +134,41 @@ Registro de direccion de memoria.
 ## RDAM: 
 Registro de datos de memoria.
 
+## Asignación de fichero
+Tabla de asignación de archivos, comúnmente conocido como FAT, es un sistema de archivos desarrollado para MS-DOS, así como el sistema de archivos
+
+## Asignación de fichero indexado
+Tabla de asignación de archivos, los registros generalmente se almacenan secuencialmente y van con un índice.
+
+## Asignación de ficheros contigua
+Un registro a continuación de otro.
+
+## Asignación de ficheros encadenada
+Los registros binarios no se disponen en el soporte atendiendo a un algoritmo de cálculo.
+
+## Base de datos
+Una base de datos es un “almacén” que nos permite guardar grandes cantidades de información de forma organizada para que luego podamos encontrar y utilizar fácilmente
+
+## Bloque
+## Campo
+## Campo clave
+## Directorio
+## Directorio de trabajo o actual
+## Fichero
+## Fichero de acceso directo o hash
+## Fichero indexado
+## Fichero secuencial
+## Fichero secuencial indexado
+## Método de acceso
+## Nodo-i
+## Nombre de fichero
+## Pila
+## Registro
+## Ruta del nombre
+## Sistema de gestión de ficheros
+## Tabla de asignación de disco
+## Tabla de asignación de fichero
+## Tabla de bits 
 
 
 
