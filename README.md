@@ -161,6 +161,8 @@ Una base de datos es un “almacén” que nos permite guardar grandes cantidade
 ## Fichero secuencial indexado
 ## Método de acceso
 ## Nodo-i
+La entrada encontrada(el i-nodo del archivo) contiene la descripción del archivo
+
 ## Nombre de fichero
 ## Pila
 ## Registro
